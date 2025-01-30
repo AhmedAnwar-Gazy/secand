@@ -1211,8 +1211,11 @@
 </head>
 
 <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-
-<x-navigation ></x-navigation>
+<nav>
+<x-navigation href="home">Home</x-navigation>
+<x-navigation href="about" >About</x-navigation>
+<x-navigation href="contact">Contact</x-navigation>
+</nav>
 
     {{ $slot }}
 
