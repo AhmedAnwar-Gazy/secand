@@ -8,7 +8,7 @@
 </head>
 <body class="bg-gray-100 flex items-center justify-center h-screen">
     <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-sm">
-        <h2 class="text-2xl font-bold mb-6 text-center">Sign In</h2>
+        <h2 class="text-2xl  font-bold mb-6 text-center">Sign In</h2>
         <form>
             <div class="mb-4">
                 <label class="block text-gray-700 text-sm font-bold mb-2" for="email">Email</label>
